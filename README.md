@@ -27,7 +27,7 @@ Demonstrate your understanding of this Sprint's concepts by answering the follow
 
 - [ ]  Explain benefit(s) using `client-side routing`?
 
-> Answer:
+> Answer: Client side routing handles the routing internally by javascript already on the page. This results in a longer load time initially, but vastly quicker load times when dislaying the requested components after the initial load. 
 
 ## Project Set Up
 
